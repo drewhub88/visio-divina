@@ -2,7 +2,8 @@
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "meta": {
     "title": "Visio Divina Theme Demo",
-    "description": "A live preview of the Visio Divina WordPress theme, pre-loaded with sample devotionals, figures, and pages."
+    "description": "A live preview of the Visio Divina WordPress theme, pre-loaded with sample devotionals, figures, and pages.",
+    "author": "Andrew Edward L"
   },
   "preferredVersions": {
     "php": "8.3",
