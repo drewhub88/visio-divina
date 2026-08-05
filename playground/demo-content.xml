@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+<title>Visio Divina Demo</title>
+<link>https://playgroundexample.wordpress.net</link>
+<description>Visio Divina theme demo content</description>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://playgroundexample.wordpress.net</wp:base_site_url>
+<wp:base_blog_url>https://playgroundexample.wordpress.net</wp:base_blog_url>
+<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+<wp:term>
+  <wp:term_id>1</wp:term_id>
+  <wp:term_taxonomy>monthly_theme</wp:term_taxonomy>
+  <wp:term_slug>faith-and-trust</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Faith & Trust]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>2</wp:term_id>
+  <wp:term_taxonomy>monthly_theme</wp:term_taxonomy>
+  <wp:term_slug>kindness</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Kindness]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>3</wp:term_id>
+  <wp:term_taxonomy>monthly_theme</wp:term_taxonomy>
+  <wp:term_slug>forgiveness</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Forgiveness]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>4</wp:term_id>
+  <wp:term_taxonomy>monthly_theme</wp:term_taxonomy>
+  <wp:term_slug>gratitude</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Gratitude]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>5</wp:term_id>
+  <wp:term_taxonomy>character</wp:term_taxonomy>
+  <wp:term_slug>grace</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Grace]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>6</wp:term_id>
+  <wp:term_taxonomy>character</wp:term_taxonomy>
+  <wp:term_slug>noah</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Noah]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>7</wp:term_id>
+  <wp:term_taxonomy>character</wp:term_taxonomy>
+  <wp:term_slug>samuel</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Samuel]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>8</wp:term_id>
+  <wp:term_taxonomy>character</wp:term_taxonomy>
+  <wp:term_slug>graces-mother</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Grace's Mother]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>9</wp:term_id>
+  <wp:term_taxonomy>guest_type</wp:term_taxonomy>
+  <wp:term_slug>video</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Video]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>10</wp:term_id>
+  <wp:term_taxonomy>guest_type</wp:term_taxonomy>
+  <wp:term_slug>article</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Article]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>11</wp:term_id>
+  <wp:term_taxonomy>guest_type</wp:term_taxonomy>
+  <wp:term_slug>testimony</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Testimony]]></wp:term_name>
+</wp:term>
+<wp:term>
+  <wp:term_id>500</wp:term_id>
+  <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+  <wp:term_slug>primary-navigation</wp:term_slug>
+  <wp:term_parent></wp:term_parent>
+  <wp:term_name><![CDATA[Primary Navigation]]></wp:term_name>
+</wp:term>
+<item>
+<title>Grace</title>
+<link>https://playgroundexample.wordpress.net/grace/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1001</guid>
+<description></description>
+<content:encoded><![CDATA[Grace is a curious, warm-hearted twelve-year-old who notices the small moments most people rush past. She asks questions other kids are too shy to ask, and she is slowly learning that faith is less about having every answer and more about staying open to God's voice in everyday life.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1001</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[grace]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[figure]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[figure_role]]></wp:meta_key><wp:meta_value><![CDATA[Lead Character]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_role]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_role]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[💛]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_emoji]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_color]]></wp:meta_key><wp:meta_value><![CDATA[linear-gradient(135deg,#f5e0c0,#e8c090)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_color]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_color]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_count]]></wp:meta_key><wp:meta_value><![CDATA[Appears in 12 devotionals]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_count]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_count]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Noah</title>
+<link>https://playgroundexample.wordpress.net/noah/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1002</guid>
+<description></description>
+<content:encoded><![CDATA[Noah has been Grace's best friend since they were both in diapers. He is practical where she is dreamy, steady where she is impulsive, and it's usually Noah who asks the follow-up question that turns a simple story into a real lesson.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1002</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[noah]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[figure]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[figure_role]]></wp:meta_key><wp:meta_value><![CDATA[Lead Character]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_role]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_role]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[💙]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_emoji]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_color]]></wp:meta_key><wp:meta_value><![CDATA[linear-gradient(135deg,#dce8f8,#b0d0f8)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_color]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_color]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_count]]></wp:meta_key><wp:meta_value><![CDATA[Appears in 11 devotionals]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_count]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_count]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Samuel</title>
+<link>https://playgroundexample.wordpress.net/samuel/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1003</guid>
+<description></description>
+<content:encoded><![CDATA[Samuel is the quiet, steady presence in the neighborhood — older, a little wiser, and always willing to sit with Grace and Noah when they've gotten something wrong. He rarely gives straight answers, preferring to ask the question that helps them find their own.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1003</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[samuel]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[figure]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[figure_role]]></wp:meta_key><wp:meta_value><![CDATA[Friend & Supporting Character]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_role]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_role]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[💚]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_emoji]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_color]]></wp:meta_key><wp:meta_value><![CDATA[linear-gradient(135deg,#c0f0cc,#90e0a0)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_color]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_color]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_count]]></wp:meta_key><wp:meta_value><![CDATA[Appears in 6 devotionals]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_count]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_count]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Grace's Mother</title>
+<link>https://playgroundexample.wordpress.net/graces-mother/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1004</guid>
+<description></description>
+<content:encoded><![CDATA[A wise, patient mother figure who listens more than she speaks and prays more than she worries. When Grace comes home with a hard question, her mother rarely answers right away — she makes tea first, and lets the silence do some of the teaching.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1004</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[graces-mother]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[figure]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[figure_role]]></wp:meta_key><wp:meta_value><![CDATA[Parent / Mentor]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_role]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_role]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[🤍]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_emoji]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_emoji]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_color]]></wp:meta_key><wp:meta_value><![CDATA[linear-gradient(135deg,var(--gold-pale),#f0e0b0)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_color]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_color]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[figure_count]]></wp:meta_key><wp:meta_value><![CDATA[Appears in 4 devotionals]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_figure_count]]></wp:meta_key><wp:meta_value><![CDATA[field_figure_count]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Faithful in Small Things</title>
+<link>https://playgroundexample.wordpress.net/faithful-in-small-things/</link>
+<pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1005</guid>
+<description></description>
+<content:encoded><![CDATA[Grace had been asked to water Mrs. Alvarez's tomato plants for a week while she was away — a small, boring job that didn't feel like it mattered to anyone. By Wednesday she almost forgot, until Noah reminded her on the walk home from school. "It's just tomatoes," Grace said. "Maybe," Noah shrugged, "but you said you'd do it." That evening, watering can in hand, Grace realized the plants didn't care how small the job seemed — they just needed someone to show up. She wondered if maybe faith worked the same way: not in the big, dramatic moments, but in the small promises kept when no one is watching.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1005</wp:post_id>
+<wp:post_date><![CDATA[2026-01-06 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-06 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-06 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-06 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[faithful-in-small-things]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="faith-and-trust"><![CDATA[Faith & Trust]]></category>
+<category domain="character" nicename="grace"><![CDATA[Grace]]></category>
+<category domain="character" nicename="noah"><![CDATA[Noah]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[He that is faithful in that which is least is faithful also in much.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[Luke 16:10 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Pick one small responsibility this week — a chore, a promise, a habit — and do it faithfully every single day, even when no one notices.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. What's one small thing you've been putting off?<br>
+2. Why do you think small faithfulness matters to God?<br>
+3. Who in your life is faithful in small things, and what can you learn from them?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, teach me to be faithful in the small things you've placed in my hands, trusting that you see what others miss.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>A Friend Who Stays</title>
+<link>https://playgroundexample.wordpress.net/a-friend-who-stays/</link>
+<pubDate>Wed, 07 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1006</guid>
+<description></description>
+<content:encoded><![CDATA[Noah had a rough week — he'd struck out three times at his baseball game, and his coach had said some things in front of the whole team that stung more than he wanted to admit. He half-expected his friends to tease him about it. Instead, Samuel showed up at his door that evening with two bikes and no mention of baseball at all. They rode until it got dark, and Noah realized somewhere along the way that he'd stopped thinking about the game entirely. Samuel never brought it up — he'd just shown up, the way he always did.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1006</wp:post_id>
+<wp:post_date><![CDATA[2026-01-07 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-07 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-07 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-07 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[a-friend-who-stays]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="kindness"><![CDATA[Kindness]]></category>
+<category domain="character" nicename="noah"><![CDATA[Noah]]></category>
+<category domain="character" nicename="samuel"><![CDATA[Samuel]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[A friend loveth at all times, and a brother is born for adversity.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[Proverbs 17:17 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Think of someone who's had a hard week. Show up for them without needing to fix or discuss the problem — just be present.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. Who has been a 'friend who stays' for you?<br>
+2. Is there someone you could show up for this week?<br>
+3. Why do you think presence often matters more than advice?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, make me the kind of friend who stays — in good seasons and hard ones alike.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>The Weight of an Apology</title>
+<link>https://playgroundexample.wordpress.net/the-weight-of-an-apology/</link>
+<pubDate>Thu, 08 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1007</guid>
+<description></description>
+<content:encoded><![CDATA[Grace had snapped at her little cousin over nothing — a borrowed toy, a slammed door, words she regretted the second they left her mouth. She avoided him all afternoon, too embarrassed to say sorry. That night, her mother didn't lecture her. She just asked, quietly, "Do you think he's still thinking about it, or do you think you are?" Grace realized the apology she'd been avoiding wasn't really about her cousin anymore — it was about the heavy feeling she was carrying alone. She found him before bed. Three words, and the weight lifted.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1007</wp:post_id>
+<wp:post_date><![CDATA[2026-01-08 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-08 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-08 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-08 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[the-weight-of-an-apology]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="forgiveness"><![CDATA[Forgiveness]]></category>
+<category domain="character" nicename="grace"><![CDATA[Grace]]></category>
+<category domain="character" nicename="graces-mother"><![CDATA[Grace's Mother]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[Be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[Ephesians 4:32 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Is there an apology you've been putting off? Say it this week, even if it feels small or awkward.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. Why do apologies feel harder to say than they should be?<br>
+2. How does forgiveness change the person giving it, not just the one receiving it?<br>
+3. What's stopping you from forgiving someone right now?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, give me the courage to say sorry quickly, and the grace to forgive just as quickly.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>What Grew in the Dark</title>
+<link>https://playgroundexample.wordpress.net/what-grew-in-the-dark/</link>
+<pubDate>Fri, 09 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1008</guid>
+<description></description>
+<content:encoded><![CDATA[Samuel kept a small garden box on his windowsill, and every year he planted seeds that, for weeks, seemed to do absolutely nothing. Grace once asked him how he knew they were even alive under there. "I don't, really," he admitted. "Not until the first green shows up. Until then, I just keep watering and trust the process working underground." It struck Grace that most of her own growing — the parts that mattered most — probably happened the same way: quietly, out of sight, long before anyone could see the result.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1008</wp:post_id>
+<wp:post_date><![CDATA[2026-01-09 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-09 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-09 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-09 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[what-grew-in-the-dark]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="faith-and-trust"><![CDATA[Faith & Trust]]></category>
+<category domain="character" nicename="samuel"><![CDATA[Samuel]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[For we walk by faith, not by sight.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[2 Corinthians 5:7 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Keep doing one good, quiet habit this week even though you can't see it 'working' yet — prayer, patience, kindness, whatever it is.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. What's something in your life that feels like it's 'growing in the dark' right now?<br>
+2. Why is it hard to trust a process you can't see?<br>
+3. What helps you keep going when there's no visible progress?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, help me trust what you're growing in me, even in seasons I can't see it yet.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Room at the Table</title>
+<link>https://playgroundexample.wordpress.net/room-at-the-table/</link>
+<pubDate>Sat, 10 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1009</guid>
+<description></description>
+<content:encoded><![CDATA[A new kid had joined Grace's class — quiet, unsure where to sit at lunch, clearly dreading the whole thing. Grace noticed him standing at the edge of the cafeteria and, without really thinking about it, waved him over. Noah scooted down without being asked. It wasn't a big gesture. Nobody clapped. But at dinner that night, when Grace mentioned it, her mother smiled in a way that told her it mattered more than she realized. "That's what love looks like most days," she said. "Just making room."]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1009</wp:post_id>
+<wp:post_date><![CDATA[2026-01-10 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-10 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-10 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-10 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[room-at-the-table]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="kindness"><![CDATA[Kindness]]></category>
+<category domain="character" nicename="grace"><![CDATA[Grace]]></category>
+<category domain="character" nicename="noah"><![CDATA[Noah]]></category>
+<category domain="character" nicename="graces-mother"><![CDATA[Grace's Mother]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[Use hospitality one to another without grudging.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[1 Peter 4:9 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[This week, notice someone who seems to be on the outside of a group, and make room for them — literally or otherwise.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. Have you ever been the new person somewhere? What would have helped?<br>
+2. What's one small way you can 'make room' this week?<br>
+3. Why do small gestures of welcome matter so much?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, make my heart wide enough to welcome the people you bring across my path.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Counting What's Ordinary</title>
+<link>https://playgroundexample.wordpress.net/counting-whats-ordinary/</link>
+<pubDate>Sun, 11 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1010</guid>
+<description></description>
+<content:encoded><![CDATA[Grace's teacher gave the class an odd assignment: list ten things you're thankful for, but none of them can be a person, an event, or anything 'exciting.' Grace stared at the blank page for a while before she started writing — the smell of rain on the sidewalk, the specific creak on the third stair, the way her socks always matched even when she wasn't trying. By the tenth item she felt lighter than she expected. Gratitude for ordinary things, it turned out, was its own kind of prayer.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1010</wp:post_id>
+<wp:post_date><![CDATA[2026-01-11 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-11 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-11 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-11 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[counting-whats-ordinary]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="gratitude"><![CDATA[Gratitude]]></category>
+<category domain="character" nicename="grace"><![CDATA[Grace]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[In every thing give thanks: for this is the will of God in Christ Jesus concerning you.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[1 Thessalonians 5:18 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Write down ten ordinary, unexciting things you're grateful for today. Notice how it changes your mood.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. What ordinary thing did you notice today that you'd normally overlook?<br>
+2. Why do you think gratitude for small things matters?<br>
+3. How does thankfulness change the way you see a hard day?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, thank you for the ordinary gifts I overlook — teach me to notice them.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>The Question Samuel Wouldn't Answer</title>
+<link>https://playgroundexample.wordpress.net/the-question-samuel-wouldnt-answer/</link>
+<pubDate>Mon, 12 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1011</guid>
+<description></description>
+<content:encoded><![CDATA[Noah asked Samuel a question he'd been sitting with for weeks: "How do you know God actually hears you?" He expected an answer with steps, or maybe a verse. Instead Samuel just asked, "What would change if you knew for certain?" Noah thought about it longer than he expected to. Maybe the question wasn't really about certainty at all — maybe it was about whether he was willing to keep praying either way.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1011</wp:post_id>
+<wp:post_date><![CDATA[2026-01-12 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-12 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-12 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-12 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[the-question-samuel-wouldnt-answer]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="faith-and-trust"><![CDATA[Faith & Trust]]></category>
+<category domain="character" nicename="samuel"><![CDATA[Samuel]]></category>
+<category domain="character" nicename="noah"><![CDATA[Noah]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[Trust in the LORD with all thine heart; and lean not unto thine own understanding.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[Proverbs 3:5 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Sit with a hard question you have about faith this week instead of rushing to resolve it. Bring it honestly to God in prayer.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. What's a faith question you've been avoiding?<br>
+2. Why do you think God doesn't always answer immediately or clearly?<br>
+3. What would change in your life if you trusted more and understood less?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, I don't have all the answers — help me trust you anyway.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Mended, Not Hidden</title>
+<link>https://playgroundexample.wordpress.net/mended-not-hidden/</link>
+<pubDate>Tue, 13 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1012</guid>
+<description></description>
+<content:encoded><![CDATA[Grace tore her favorite jacket climbing the back fence, and her first instinct was to shove it in the back of her closet and hope no one noticed. Her mother found it anyway — not by snooping, just by paying attention. Instead of scolding her for the rip, she sat down with a needle and thread and mended it right there at the kitchen table. "See," she said, holding it up. "Mended, not hidden. It's stronger at the seam now than it was before." Grace thought about all the things she usually tried to hide instead of bringing into the light to be healed.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1012</wp:post_id>
+<wp:post_date><![CDATA[2026-01-13 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-13 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-13 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-13 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[mended-not-hidden]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[post]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="monthly_theme" nicename="forgiveness"><![CDATA[Forgiveness]]></category>
+<category domain="character" nicename="grace"><![CDATA[Grace]]></category>
+<category domain="character" nicename="graces-mother"><![CDATA[Grace's Mother]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[key_verse]]></wp:meta_key><wp:meta_value><![CDATA[Create in me a clean heart, O God; and renew a right spirit within me.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_key_verse]]></wp:meta_key><wp:meta_value><![CDATA[field_key_verse]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[Psalm 51:10 (KJV)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_verse_reference]]></wp:meta_key><wp:meta_value><![CDATA[field_verse_reference]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[Is there something you've been hiding — a mistake, a struggle, a mended-but-still-tender place? Bring it into the light with someone you trust.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_activity_challenge]]></wp:meta_key><wp:meta_value><![CDATA[field_challenge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[1. What do you tend to hide instead of dealing with honestly?<br>
+2. Why is hiding usually worse than facing something directly?<br>
+3. How has God 'mended' something in your life before?]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_reflection_questions]]></wp:meta_key><wp:meta_value><![CDATA[field_reflection]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[Lord, I don't want to hide from you. Mend what's broken in me and make it stronger at the seam.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_closing_prayer]]></wp:meta_key><wp:meta_value><![CDATA[field_prayer]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Finding Peace in the Waiting Room</title>
+<link>https://playgroundexample.wordpress.net/finding-peace-in-the-waiting-room/</link>
+<pubDate>Fri, 09 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1013</guid>
+<description></description>
+<content:encoded><![CDATA[I spent three weeks in hospital waiting rooms this spring, and I expected to come out of it exhausted and bitter. Instead, I came out with a strange, quiet peace I hadn't asked for. This is the story of what I learned about surrender in the space between diagnosis and answer, and why waiting is not the same thing as wasted time.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1013</wp:post_id>
+<wp:post_date><![CDATA[2026-01-09 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-09 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-09 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-09 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[finding-peace-in-the-waiting-room]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[guest_room]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="guest_type" nicename="testimony"><![CDATA[Testimony]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[A Visio Divina Reader]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_speaker]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[waiting, trust, healing]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_hashtags]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Five Minutes of Morning Silence</title>
+<link>https://playgroundexample.wordpress.net/five-minutes-of-morning-silence/</link>
+<pubDate>Sun, 11 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1014</guid>
+<description></description>
+<content:encoded><![CDATA[A short video reflection on why five unhurried minutes before the noise of the day begins can reshape everything that follows — and a few simple prompts to help you start your own practice this week.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1014</wp:post_id>
+<wp:post_date><![CDATA[2026-01-11 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-11 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-11 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-11 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[five-minutes-of-morning-silence]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[guest_room]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="guest_type" nicename="video"><![CDATA[Video]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[Guest Contributor]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_speaker]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[stillness, prayer, morning]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_hashtags]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>What My Grandmother Taught Me About Hospitality</title>
+<link>https://playgroundexample.wordpress.net/what-my-grandmother-taught-me-about-hospitality/</link>
+<pubDate>Tue, 13 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1015</guid>
+<description></description>
+<content:encoded><![CDATA[My grandmother never had much, but her table always had room for one more. This is a reflection on what she taught me about generosity that had nothing to do with money, and everything to do with attention.]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1015</wp:post_id>
+<wp:post_date><![CDATA[2026-01-13 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-13 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-13 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-13 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[what-my-grandmother-taught-me-about-hospitality]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type><![CDATA[guest_room]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="guest_type" nicename="article"><![CDATA[Article]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[Guest Contributor]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_speaker]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_speaker]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[hospitality, family, generosity]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_guest_hashtags]]></wp:meta_key><wp:meta_value><![CDATA[field_guest_hashtags]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Devotional Archive</title>
+<link>https://playgroundexample.wordpress.net/archive/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1016</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1016</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[archive]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-archive-renungan.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Figures</title>
+<link>https://playgroundexample.wordpress.net/figures/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1017</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1017</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[figures]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-figures.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Guest Room</title>
+<link>https://playgroundexample.wordpress.net/guest-room/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1018</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1018</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[guest-room]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-guest-room.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Contributors</title>
+<link>https://playgroundexample.wordpress.net/contributors/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1019</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1019</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contributors]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-contributors.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Contact</title>
+<link>https://playgroundexample.wordpress.net/contact/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1020</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1020</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contact]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-contact.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Contributor Dashboard</title>
+<link>https://playgroundexample.wordpress.net/contributor-dashboard/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1021</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1021</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contributor-dashboard]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>6</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-contributor-dashboard.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Sign In</title>
+<link>https://playgroundexample.wordpress.net/login/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1022</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1022</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[login]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>7</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-login.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Register</title>
+<link>https://playgroundexample.wordpress.net/register/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=1023</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>1023</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-01-15 08:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[register]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>8</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+
+<wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-register.php]]></wp:meta_value></wp:postmeta>
+
+</item>
+<item>
+<title>Home</title>
+<link>https://playgroundexample.wordpress.net/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9000</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9000</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[home-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>1</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[custom]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[https://playgroundexample.wordpress.net/]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Devotional Archive</title>
+<link>https://playgroundexample.wordpress.net/archive/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9002</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9002</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[archive-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>2</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1016]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Figures</title>
+<link>https://playgroundexample.wordpress.net/figures/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9003</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9003</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[figures-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>3</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1017]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Guest Room</title>
+<link>https://playgroundexample.wordpress.net/guest-room/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9004</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9004</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[guest-room-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>4</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1018]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Contributors</title>
+<link>https://playgroundexample.wordpress.net/contributors/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9005</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9005</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contributors-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>5</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1019]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title>Contact</title>
+<link>https://playgroundexample.wordpress.net/contact/</link>
+<pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">https://playgroundexample.wordpress.net/?p=9006</guid>
+<description></description>
+<content:encoded><![CDATA[]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>9006</wp:post_id>
+<wp:post_date><![CDATA[2026-01-15 08:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-01-15 08:00:00]]></wp:post_date_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[contact-menu-item]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>6</wp:menu_order>
+<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<category domain="nav_menu" nicename="primary-navigation"><![CDATA[Primary Navigation]]></category>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1020]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key><wp:meta_value><![CDATA[0]]></wp:meta_value></wp:postmeta>
+</item>
+</channel>
+</rss>

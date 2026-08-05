@@ -1,0 +1,65 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Visio Divina Theme Demo",
+    "description": "A live preview of the Visio Divina WordPress theme, pre-loaded with sample devotionals, figures, and pages."
+  },
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "landingPage": "/",
+  "login": true,
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "advanced-custom-fields"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "git:directory",
+        "url": "https://github.com/drewhub88/visio-divina",
+        "ref": "main",
+        "refType": "branch",
+        "path": "theme"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/drewhub88/visio-divina/main/playground/demo-content.xml"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Visio Divina",
+        "blogdescription": "A daily devotional demo",
+        "show_on_front": "posts",
+        "permalink_structure": "/%postname%/"
+      }
+    },
+    {
+      "step": "wp-cli",
+      "command": "wp menu location assign primary-navigation primary"
+    },
+    {
+      "step": "wp-cli",
+      "command": "wp rewrite flush"
+    }
+  ]
+}
