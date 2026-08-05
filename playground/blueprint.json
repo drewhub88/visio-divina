@@ -46,6 +46,10 @@
       }
     },
     {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; update_option('widget_visio_calendar_widget', [2 => [], '_multiwidget' => 1]); update_option('widget_visio_theme_index', [2 => [], '_multiwidget' => 1]); update_option('widget_visio_recent_devotionals', [2 => ['count' => 5], '_multiwidget' => 1]); $sidebars_widgets = get_option('sidebars_widgets'); $sidebars_widgets['sidebar-1'] = ['visio_calendar_widget-2', 'visio_theme_index-2', 'visio_recent_devotionals-2']; update_option('sidebars_widgets', $sidebars_widgets);"
+    },
+    {
       "step": "setSiteOptions",
       "options": {
         "blogname": "Visio Divina",
